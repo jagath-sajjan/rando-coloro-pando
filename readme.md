@@ -15,7 +15,7 @@ This project generates a variety of color swatches and palettes, and displays th
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/color-palette-generator.git
+   git clone https://github.com/jagath-sajjan/rando-coloro-pando.git
    ```
 
 2. Run the color generation script:
